@@ -1,6 +1,9 @@
 # 🕵️‍♂️🎮 Game Detective
 
-![Game Detective Retro Banner](./img/banner.png)  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3929c0e8-ed7a-4610-ab39-068ac5060f3f" alt="Game Detective Retro Banner" width="800"/>
+</p>
+
 *Embark on a pixelated point-and-click adventure made in a single afternoon using only HTML, CSS & JavaScript!*  
 
 🌐 **[Play it online!](https://msg-developer.github.io/Game-detective/)**  
@@ -13,7 +16,6 @@
 - ⚡ Simple **JavaScript** for interactions and scene transitions  
 - 🕹️ Classic **point-and-click gameplay mechanics**  
 - 📂 Lightweight project, no external dependencies  
-
 
 ---
 
@@ -46,6 +48,7 @@ This project is free to explore, modify, and have fun with.
 ---
 
 🔥 **Thanks for playing!** If you enjoyed it, don’t forget to ⭐ the repo and share your ideas!
+
 
 
 
